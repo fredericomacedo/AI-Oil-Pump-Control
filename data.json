@@ -1,0 +1,162 @@
+[
+    {
+        "well_pression": 31.4,
+        "well_temp": 26.7,
+        "well_flow": 36.2,
+        "sumpLevel": 49.5,
+        "pump_flow": 38.1,
+        "pump_accelaration": 48.3
+    },
+    {
+        "well_pression": 29.7,
+        "well_temp": 24.9,
+        "well_flow": 33.4,
+        "sumpLevel": 48.1,
+        "pump_flow": 33.5,
+        "pump_accelaration": 47.1
+    },
+    {
+        "well_pression": 30.2,
+        "well_temp": 27.3,
+        "well_flow": 36.8,
+        "sumpLevel": 49.8,
+        "pump_flow": 31.0,
+        "pump_accelaration": 45.3
+    },
+    {
+        "well_pression": 30.9,
+        "well_temp": 28.1,
+        "well_flow": 37.0,
+        "sumpLevel": 52.3,
+        "pump_flow": 41.6,
+        "pump_accelaration": 53.5
+    },
+    {
+        "well_pression": 28.6,
+        "well_temp": 27.0,
+        "well_flow": 31.7,
+        "sumpLevel": 46.2,
+        "pump_flow": 34.4,
+        "pump_accelaration": 44.8
+    },
+    {
+        "well_pression": 31.9,
+        "well_temp": 29.0,
+        "well_flow": 38.1,
+        "sumpLevel": 49.0,
+        "pump_flow": 38.0,
+        "pump_accelaration": 46.2
+    },
+    {
+        "well_pression": 33.0,
+        "well_temp": 27.2,
+        "well_flow": 40.0,
+        "sumpLevel": 55.0,
+        "pump_flow": 38.0,
+        "pump_accelaration": 50.7
+    },
+    {
+        "well_pression": 31.1,
+        "well_temp": 26.5,
+        "well_flow": 38.4,
+        "sumpLevel": 50.0,
+        "pump_flow": 37.8,
+        "pump_accelaration": 45.7
+    },
+    {
+        "well_pression": 32.2,
+        "well_temp": 27.7,
+        "well_flow": 38.8,
+        "sumpLevel": 50.4,
+        "pump_flow": 37.3,
+        "pump_accelaration": 46.7
+    },
+    {
+        "well_pression": 29.9,
+        "well_temp": 25.6,
+        "well_flow": 36.4,
+        "sumpLevel": 49.5,
+        "pump_flow": 36.2,
+        "pump_accelaration": 48.01
+    },
+    {
+        "well_pression": 29.5,
+        "well_temp": 26.1,
+        "well_flow": 36.5,
+        "sumpLevel": 47.2,
+        "pump_flow": 33.1,
+        "pump_accelaration": 43.06
+    },
+    {
+        "well_pression": 30.1,
+        "well_temp": 26.8,
+        "well_flow": 37.5,
+        "sumpLevel": 48.4,
+        "pump_flow": 30.2,
+        "pump_accelaration": 42.15
+    },
+    {
+        "well_pression": 31.9,
+        "well_temp": 29.0,
+        "well_flow": 38.1,
+        "sumpLevel": 49.0,
+        "pump_flow": 38.0,
+        "pump_accelaration": 46.2
+    },
+    {
+        "well_pression": 30.9,
+        "well_temp": 27.2,
+        "well_flow": 37.2,
+        "sumpLevel": 49.1,
+        "pump_flow": 35.4,
+        "pump_accelaration": 45.5
+    },
+    {
+        "well_pression": 31.0,
+        "well_temp": 27.5,
+        "well_flow": 37.6,
+        "sumpLevel": 50.0,
+        "pump_flow": 36.5,
+        "pump_accelaration": 46.9
+    },
+    {
+        "well_pression": 31.9,
+        "well_temp": 29.0,
+        "well_flow": 38.1,
+        "sumpLevel": 49.0,
+        "pump_flow": 38.0,
+        "pump_accelaration": 46.2
+    },
+    {
+        "well_pression": 29.9,
+        "well_temp": 27.1,
+        "well_flow": 37.2,
+        "sumpLevel": 49.8,
+        "pump_flow": 35.8,
+        "pump_accelaration": 47.02317637909183
+    },
+    {
+        "well_pression": 30.1,
+        "well_temp": 27.3,
+        "well_flow": 37.5,
+        "sumpLevel": 50.0,
+        "pump_flow": 37.2,
+        "pump_accelaration": 47.71076967825752
+    },
+    {
+        "well_pression": 28.8,
+        "well_temp": 27.3,
+        "well_flow": 36.6,
+        "sumpLevel": 49.9,
+        "pump_flow": 37.6,
+        "pump_accelaration": 48.85170816262275
+    },
+    {
+        "well_pression": 30.2,
+        "well_temp": 28.3,
+        "well_flow": 38.2,
+        "sumpLevel": 50.0,
+        "pump_flow": 37.4,
+        "pump_accelaration": 47.35814703780496
+    }
+]
